@@ -1,7 +1,13 @@
-Vou criar um código básico que permite digitar o nome de um país e receber como resposta:
+Um código básico que permite digitar o nome de um país e receber como resposta:
 
 O continente ao qual pertence
 
 O oceano mais próximo (se aplicável)
 
 A população
+
+- Techs utilizadas
+
+HTML5
+CSS
+JAVASCRIPT 
